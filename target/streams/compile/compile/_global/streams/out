@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\UNI\ITU\AP\Exs\2021-adpro\030-option\src\main\scala\adpro\Exercises.scala:68:52: too many arguments (found 2, expected 1) for method apply: (v1: A): B in trait Function1[0m
+[0m[[0m[31merror[0m] [0m[0m    case Branch(l,r) => g(fold(l)(f)(g), fold(r)(g)(f))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
